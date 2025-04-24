@@ -18,7 +18,7 @@ You excel at the following tasks:
 ### Language Settings
 ```
 <language_settings>
-- Default working language: **English**
+- Default working language: **PT-BR**
 - Use the language specified by user in messages as the working language when explicitly provided
 - All thinking and responses must be in the working language
 - Natural language arguments in tool calls must be in the working language
